@@ -13,4 +13,3 @@ My school exercise about responsive web design
 ## Download link:
 
 <a href="https://codeload.github.com/abdellahak/ResponsiveWebDesign/zip/refs/heads/main" target="_blank">Click here!</a>
-[Click here!]([https://example.com](https://codeload.github.com/abdellahak/ResponsiveWebDesign/zip/refs/heads/main)https://codeload.github.com/abdellahak/ResponsiveWebDesign/zip/refs/heads/main){:target="_blank"}
